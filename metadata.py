@@ -14,12 +14,12 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_IMAGE_URL = "ipfs://QmUF98AKXUJvKf8KL9KNFkiznsJ5GvUsYgMKGKvPH64FyF"
+BASE_NAME = "Origami Foxes #"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "A collection of 820 Origami Foxes on the Ethereum Blockchain",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }
