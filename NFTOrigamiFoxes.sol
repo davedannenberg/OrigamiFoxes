@@ -80,7 +80,7 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
     //Returns URI for collection
     function tokenURI(uint256 _tokenId) public view override returns (string memory) {
         return Strings.strConcat(
-        baseTokenURI(),
+        setBaseURI("https://gateway.pinata.cloud/ipfs/QmNWF1pqcc49fRhXysj7TNZ6SBg7gVDcQKLjg25JRMcvGX"),
         Strings.uint2str(_tokenId)
     );
   }
