@@ -12,7 +12,7 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
     
     Counters.Counter private _tokenIds;
     
-    uint public constant MAX_SUPPLY = 100; // Maximum number of NFTs that can ben minted
+    uint public constant MAX_SUPPLY = 820; // Maximum number of NFTs that can ben minted
     // uint public constant PRICE = 0.0000001 ether; // Free distribution to bootcamp students
     uint public constant MAX_PER_MINT = 1; // Only one NFT per mint
     
@@ -26,7 +26,7 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
     // Mint NFTs for free to bootcamp students
     function reserveNFTs() public onlyOwner {
         uint totalMinted = _tokenIds.current();
-        uint freeFoxes = 50; // Minting 50 NFTs for free
+        uint freeFoxes = 820; // Minting 820 NFTs for free
 
         require(totalMinted.add(freeFoxes) < MAX_SUPPLY, "Not enough NFTs left to reserve"); 
 
@@ -77,6 +77,14 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
         return tokensId;
     }
     
+    //Returns URI for collection
+    function tokenURI(uint256 _tokenId) public view override returns (string memory) {
+        return Strings.strConcat(
+        baseTokenURI(),
+        Strings.uint2str(_tokenId)
+    );
+  }
+
     // No payment required so no withdrawal function needed
     
     //function withdraw() public payable onlyOwner {
