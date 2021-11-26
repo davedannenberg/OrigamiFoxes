@@ -5,6 +5,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol";
 
 contract NFTCollectible is ERC721Enumerable, Ownable {
     using SafeMath for uint256;
@@ -77,13 +78,13 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
         return tokensId;
     }
     
-    //Returns URI for collection
-    function tokenURI(uint256 _tokenId) public view override returns (string memory) {
-        return Strings.strConcat(
-        setBaseURI("https://gateway.pinata.cloud/ipfs/QmNWF1pqcc49fRhXysj7TNZ6SBg7gVDcQKLjg25JRMcvGX"),
-        Strings.uint2str(_tokenId)
-    );
-  }
+//     //Returns URI for collection
+//     function tokenURI(uint256 _tokenId) public view override returns (string memory) {
+//         return Strings.strConcat(
+//         setBaseURI("https://gateway.pinata.cloud/ipfs/QmNWF1pqcc49fRhXysj7TNZ6SBg7gVDcQKLjg25JRMcvGX"),
+//         Strings.uint2str(_tokenId)
+//     );
+//   }
 
     // No payment required so no withdrawal function needed
     
