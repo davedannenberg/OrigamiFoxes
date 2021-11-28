@@ -13,14 +13,14 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
     
     Counters.Counter private _tokenIds;
     
-    uint public constant MAX_SUPPLY = 820; // Maximum number of NFTs that can ben minted
+    uint public constant MAX_SUPPLY = 820; // Maximum number of NFTs that can be minted
     // uint public constant PRICE = 0.0000001 ether; // Free distribution to bootcamp students
     uint public constant MAX_PER_MINT = 1; // Only one NFT per mint
     
     string public baseTokenURI;
     
     // Constructor to set the name and symbol of NFT collection. 
-    constructor(string memory baseURI) ERC721("NFT Collectible", "NFTC") {
+    constructor(string memory baseURI) ERC721("Origami Foxes", "OF") {
         setBaseURI(baseURI);
     }
     
@@ -46,6 +46,7 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
         baseTokenURI = _baseTokenURI;
     }
     
+
     // Checks before minting NFT from collection
     function mintNFTs(uint _count) public {
         uint totalMinted = _tokenIds.current();
@@ -57,6 +58,11 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
         for (uint i = 0; i < _count; i++) {
             _mintSingleNFT();
         }
+    }
+
+    //Returns URI for collection
+    function tokenURI(uint256 _tokenId) public view override returns (string memory) {
+        return baseTokenURI;
     }
     
     // Function to mint NFT from collection
@@ -78,14 +84,6 @@ contract NFTCollectible is ERC721Enumerable, Ownable {
         return tokensId;
     }
     
-//     //Returns URI for collection
-//     function tokenURI(uint256 _tokenId) public view override returns (string memory) {
-//         return Strings.strConcat(
-//         setBaseURI("https://gateway.pinata.cloud/ipfs/QmNWF1pqcc49fRhXysj7TNZ6SBg7gVDcQKLjg25JRMcvGX"),
-//         Strings.uint2str(_tokenId)
-//     );
-//   }
-
     // No payment required so no withdrawal function needed
     
     //function withdraw() public payable onlyOwner {
