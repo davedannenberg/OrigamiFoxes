@@ -4,7 +4,7 @@ Origami foxes consists of 820 non-fungible tokens (NFTs) based on an Origami Fox
 
 NFTs have seen increasing popularity over the past year, with early popular generative NFTs including Cryptopunks and the Bored Ape Yacht Club. In many instances, early generative NFTs sell for tens if not hundreds of thousands of dollars making them inaccessible to the vast majority of crypto users. Origami Foxes uses a similar generative concept creating uniquely patterned foxes that will be available for every individual in our class to mint and use across their digital footprint.
 
-## Technologies used in the creation of Origami foxes
+## Technologies used in the creation of Origami foxes (needs updating)
 Origami foxes makes use of the following languages, libraries, and systems:
 - Python and pip
     - Libraries include:
@@ -19,9 +19,10 @@ Origami foxes makes use of the following languages, libraries, and systems:
         - random
         - Web3, HTTPProvider, contract (from web3)
         - warnings
+- IPFS (Pinata)
 - Solidity
 - Streamlit
-- IPFS (Pinata)
+
 
 
 ## Guide
