@@ -14,12 +14,12 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://QmUF98AKXUJvKf8KL9KNFkiznsJ5GvUsYgMKGKvPH64FyF"
+BASE_IMAGE_URL = "ipfs://QmbPMVso4u3NBKDLaCRVav7a3zKtpEUwRJjZEZoMNYQNcK"
 BASE_NAME = "Origami Foxes #"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "A collection of 820 Origami Foxes on the Ethereum Blockchain",
+    "description": "A collection of 761 Origami Foxes on the Ethereum Blockchain",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }
@@ -93,7 +93,7 @@ def main():
         item_json['name'] = item_json['name'] + str(idx)
 
         # Append image PNG file name to base image path
-        item_json['image'] = item_json['image'] + '/' + str(idx).zfill(zfill_count) + '.png'
+        item_json['image'] = item_json['image'] + '/' + '0' + str(idx).zfill(zfill_count) + '.png'
         
         # Convert pandas series to dictionary
         attr_dict = dict(row)

@@ -1,0 +1,762 @@
+,ear_traits,face_tail_traits,lower_body_traits,upper_body_traits
+0,Green,Black,Brown3,Original
+1,Yellow,DkGray,Brown1,Brown1
+2,Green,Black,DkGray,Brown2
+3,BlackGray,Original,Brown1,Black
+4,BlackGray,DkGray,Original,Original
+5,Yellow,DkGray,White,Brown1
+6,Blue,DkGray,DkGray,Black
+7,BlackGray,Black,Brown2,Brown1
+8,Original,DkGray,Brown1,Brown1
+9,Original,Black,DkGray,Black Emoji1
+10,Green,DkGray,Brown3,Black
+11,Original,Red,Brown1,Black Emoji4
+12,Blue,Original,Original,Black Emoji4
+13,Green,Black,Brown1,Brown2
+14,BlackGray,White,DkGray,Black
+15,Yellow,Original,DkGray,Black Emoji1
+16,Original,Original,Original,Black Emoji1
+17,BlackGray,Original,Brown2,Black Emoji2
+18,Blue,Red,Original,Brown3
+19,Original,Black,Brown2,Brown3
+20,Yellow,Original,Original,Brown3
+21,Original,White,Brown2,Brown2
+22,Original,Black,Brown2,Black Emoji4
+23,BlackGray,Red,White,Black Emoji3
+24,Original,Black,Brown2,Brown2
+25,Blue,Red,Brown2,Original
+26,Original,Red,Original,Original
+27,BlackGray,Original,Brown1,Brown1
+28,Green,Black,DkGray,Brown1
+29,Yellow,DkGray,Brown1,Black Emoji2
+30,Yellow,White,White,Brown2
+31,Yellow,DkGray,Original,Brown1
+32,BlackGray,White,Brown1,Black
+33,Green,DkGray,DkGray,Brown2
+34,Green,Original,Brown3,Brown2
+35,Original,Red,Brown2,Original
+36,Green,Original,Brown1,Black
+37,BlackGray,White,Original,Original
+38,Blue,White,Brown3,Black
+39,Green,White,Brown1,Black
+40,BlackGray,DkGray,DkGray,Brown3
+41,Green,Original,Brown3,Original
+42,Green,Red,DkGray,Original
+43,Original,DkGray,Brown1,Brown3
+44,Yellow,Red,Original,Brown3
+45,BlackGray,Black,Brown1,Original
+46,BlackGray,Original,Brown3,Original
+47,Yellow,Red,Brown2,Brown1
+48,Yellow,Original,DkGray,Black Emoji2
+49,Blue,Red,Brown3,Brown2
+50,BlackGray,DkGray,Brown1,Original
+51,BlackGray,Black,Brown1,Black
+52,Green,DkGray,Original,Brown2
+53,Yellow,White,DkGray,Brown1
+54,Original,Red,Brown1,Brown1
+55,Yellow,Red,Brown1,Black Emoji3
+56,Original,Red,DkGray,Brown3
+57,Yellow,Black,Brown3,Brown2
+58,Yellow,Original,Brown2,Black
+59,Original,White,Brown2,Black
+60,Original,Red,DkGray,Brown2
+61,Green,DkGray,DkGray,Black
+62,Green,DkGray,Brown2,Brown3
+63,Green,White,Brown3,Black Emoji3
+64,Green,Original,Brown1,Original
+65,Yellow,Original,DkGray,Black
+66,Blue,Red,Brown2,Brown1
+67,BlackGray,Original,Brown2,Black Emoji3
+68,BlackGray,Red,DkGray,Black
+69,Original,Red,Brown3,Brown1
+70,Green,DkGray,Brown2,Brown1
+71,Blue,White,DkGray,Brown2
+72,Blue,White,Brown2,Black
+73,BlackGray,Original,DkGray,Brown1
+74,BlackGray,Original,Brown3,Brown1
+75,BlackGray,Original,Original,Brown3
+76,Original,Red,Original,Black
+77,BlackGray,DkGray,Brown1,Black
+78,Yellow,DkGray,Original,Black Emoji3
+79,Original,Original,Original,Black
+80,Green,Black,Brown2,Brown1
+81,Original,Original,Brown1,Black Emoji2
+82,Original,Red,Brown3,Original
+83,Yellow,Original,Brown1,Brown1
+84,Original,Original,White,Brown3
+85,Yellow,Original,Brown2,Brown3
+86,Yellow,DkGray,Brown1,Brown3
+87,Original,Original,Brown1,Brown2
+88,Original,Black,Brown2,Brown1
+89,Blue,DkGray,Brown3,Brown3
+90,Yellow,Original,DkGray,Brown1
+91,Blue,DkGray,Brown3,Brown2
+92,BlackGray,Original,Brown1,Black Emoji3
+93,Blue,Black,Brown1,Brown3
+94,Green,White,Brown2,Brown2
+95,Yellow,DkGray,Brown2,Brown3
+96,Yellow,Red,Brown1,Original
+97,BlackGray,White,Brown2,Black Emoji1
+98,Yellow,Red,Brown3,Black
+99,Original,DkGray,Brown2,Original
+100,Yellow,White,Brown2,Original
+101,BlackGray,Red,White,Original
+102,Yellow,White,Original,Black
+103,Blue,Red,Brown2,Brown2
+104,Yellow,Black,DkGray,Brown2
+105,Original,DkGray,Original,Brown2
+106,Blue,DkGray,DkGray,Brown2
+107,Blue,Original,Brown3,Brown3
+108,Blue,Red,Brown3,Original
+109,Blue,Black,Original,Brown2
+110,Blue,Original,Brown2,Brown2
+111,Original,DkGray,DkGray,Black
+112,Yellow,Black,Brown2,Original
+113,BlackGray,Black,Brown3,Black
+114,Green,White,White,Original
+115,Yellow,Red,Brown1,Brown3
+116,Green,Original,Original,Brown2
+117,BlackGray,White,DkGray,Brown1
+118,BlackGray,DkGray,White,Brown2
+119,Green,Original,DkGray,Black
+120,Original,Original,Brown2,Brown3
+121,Green,Black,DkGray,Original
+122,Blue,Original,Original,Brown1
+123,BlackGray,Black,Brown3,Original
+124,Green,DkGray,DkGray,Original
+125,BlackGray,Black,White,Black Emoji4
+126,BlackGray,Red,Original,Brown1
+127,Green,Red,Brown1,Brown3
+128,Green,Original,DkGray,Brown2
+129,Green,DkGray,Brown1,Brown1
+130,Original,Original,Brown2,Black Emoji3
+131,Yellow,DkGray,Brown3,Black Emoji2
+132,BlackGray,Original,DkGray,Brown2
+133,BlackGray,Black,Brown2,Black
+134,BlackGray,Red,DkGray,Brown3
+135,BlackGray,DkGray,Original,Brown1
+136,Green,Red,Brown3,Brown1
+137,Yellow,DkGray,Brown3,Brown1
+138,Blue,Black,Brown1,Original
+139,Blue,Black,Brown3,Brown3
+140,Yellow,Red,Brown3,Brown2
+141,Blue,Black,DkGray,Original
+142,Blue,Black,Brown3,Original
+143,BlackGray,Black,Brown1,Brown3
+144,Original,DkGray,Brown3,Original
+145,Original,Original,Brown2,Brown1
+146,Blue,Black,Brown1,Brown2
+147,Original,Black,White,Brown1
+148,Green,Red,Original,Black Emoji1
+149,BlackGray,White,Brown2,Black
+150,Green,Original,White,Brown2
+151,BlackGray,White,Brown1,Brown1
+152,Blue,Black,Original,Brown3
+153,Yellow,Original,White,Black
+154,Blue,Original,Brown1,Brown3
+155,Original,DkGray,Original,Original
+156,Green,DkGray,Brown3,Brown3
+157,Original,Original,DkGray,Brown1
+158,Original,DkGray,White,Original
+159,Green,Original,White,Black
+160,Original,Black,Brown1,Brown3
+161,Yellow,White,DkGray,Black Emoji2
+162,Green,Black,Brown1,Black Emoji3
+163,Original,Original,Original,Brown3
+164,Blue,Black,Brown2,Black Emoji2
+165,Blue,DkGray,Brown3,Black
+166,Blue,DkGray,Brown2,Brown1
+167,Yellow,Original,Brown2,Brown2
+168,Green,White,Brown3,Brown1
+169,Yellow,DkGray,Brown2,Brown2
+170,Blue,White,Brown3,Brown3
+171,Yellow,DkGray,Original,Brown3
+172,Yellow,Original,DkGray,Brown2
+173,Green,Original,Brown1,Black Emoji1
+174,Green,White,Brown1,Original
+175,Yellow,DkGray,Brown3,Original
+176,Blue,Black,White,Original
+177,Blue,Original,DkGray,Original
+178,Blue,White,White,Original
+179,Blue,White,Brown3,Black Emoji4
+180,Original,White,Original,Original
+181,Original,Original,White,Black Emoji1
+182,Yellow,Original,Brown2,Brown1
+183,Blue,Original,Original,Original
+184,BlackGray,Black,Original,Brown1
+185,BlackGray,Original,Brown3,Black Emoji4
+186,Blue,Black,DkGray,Brown1
+187,Original,DkGray,Brown1,Brown2
+188,Yellow,Red,DkGray,Black
+189,Original,Red,Brown2,Black Emoji1
+190,Blue,Red,DkGray,Black
+191,Original,Black,Brown3,Black Emoji3
+192,Blue,Black,Brown3,Black Emoji3
+193,Yellow,White,White,Brown1
+194,BlackGray,Black,DkGray,Brown2
+195,Green,DkGray,Brown1,Original
+196,Yellow,Black,Original,Brown3
+197,Blue,Original,Brown1,Brown2
+198,Original,White,Brown3,Brown3
+199,BlackGray,Black,DkGray,Black
+200,Yellow,White,Brown1,Brown2
+201,Yellow,White,Brown3,Brown1
+202,BlackGray,Original,Brown1,Original
+203,Blue,Red,Original,Original
+204,BlackGray,DkGray,Original,Brown2
+205,BlackGray,DkGray,Brown1,Brown1
+206,Original,Red,Brown2,Brown2
+207,Blue,White,DkGray,Brown1
+208,Yellow,White,Brown1,Brown1
+209,Blue,Red,Original,Black Emoji3
+210,Blue,Black,Brown3,Brown1
+211,Blue,Red,Brown3,Black
+212,Yellow,Black,White,Brown2
+213,Yellow,Original,DkGray,Original
+214,Original,DkGray,Brown3,Black
+215,Blue,Original,Original,Brown2
+216,BlackGray,White,Brown1,Brown2
+217,BlackGray,Original,White,Brown3
+218,Blue,DkGray,Original,Black Emoji3
+219,Blue,Black,DkGray,Brown2
+220,Yellow,White,Brown2,Brown3
+221,Original,White,Brown1,Brown1
+222,BlackGray,Red,Brown3,Brown1
+223,Yellow,Original,Original,Brown1
+224,Original,Black,White,Original
+225,Original,Original,Brown1,Black
+226,Green,Red,White,Black
+227,Original,Original,Brown2,Original
+228,Original,White,Brown3,Black
+229,Green,DkGray,Brown3,Black Emoji3
+230,Blue,Red,White,Black Emoji3
+231,Yellow,Red,White,Brown1
+232,Blue,Original,Original,Black Emoji3
+233,BlackGray,Black,White,Black Emoji3
+234,Yellow,DkGray,DkGray,Original
+235,Blue,Original,DkGray,Black Emoji1
+236,Yellow,White,Brown3,Black Emoji3
+237,Blue,Black,Brown3,Brown2
+238,Original,DkGray,Brown1,Black
+239,Green,Black,Brown2,Original
+240,Blue,Black,White,Brown2
+241,Yellow,White,Original,Original
+242,Blue,Black,DkGray,Brown3
+243,BlackGray,White,Brown1,Original
+244,Original,White,Original,Black Emoji3
+245,Yellow,Red,DkGray,Original
+246,Blue,Black,White,Brown3
+247,Blue,White,Brown1,Brown1
+248,Green,Black,White,Brown1
+249,Original,DkGray,DkGray,Original
+250,Original,Red,White,Original
+251,Green,Black,Original,Black
+252,Blue,Red,White,Brown1
+253,Green,Red,DkGray,Black Emoji2
+254,Original,Black,Original,Brown1
+255,BlackGray,Red,White,Brown3
+256,Yellow,Original,White,Brown2
+257,Original,Red,Brown1,Brown3
+258,Yellow,Red,Original,Brown1
+259,Original,Red,Brown2,Brown3
+260,Blue,White,Original,Brown1
+261,Blue,White,Brown2,Brown1
+262,Green,DkGray,Original,Black
+263,Yellow,DkGray,Brown1,Original
+264,Yellow,Red,Brown1,Brown2
+265,Original,Red,Brown1,Black
+266,Original,White,Brown2,Brown1
+267,Yellow,DkGray,White,Brown2
+268,BlackGray,White,Brown3,Brown2
+269,Blue,Original,Brown3,Black
+270,BlackGray,Black,Original,Black
+271,BlackGray,Red,DkGray,Black Emoji4
+272,Original,Red,Original,Brown1
+273,BlackGray,Red,DkGray,Original
+274,Yellow,DkGray,Brown2,Black
+275,Green,Red,Brown2,Original
+276,Original,Black,DkGray,Black
+277,Green,DkGray,Brown3,Black Emoji1
+278,Original,White,Brown3,Black Emoji2
+279,BlackGray,Original,Brown2,Black Emoji1
+280,BlackGray,Black,Original,Brown2
+281,BlackGray,Red,Brown2,Brown1
+282,Original,White,Original,Black
+283,BlackGray,Original,Original,Black
+284,Original,Black,Brown3,Black
+285,Original,DkGray,Brown3,Brown1
+286,Yellow,Black,Original,Black
+287,Yellow,Black,DkGray,Black
+288,Green,White,Brown1,Brown3
+289,Green,Red,White,Brown3
+290,BlackGray,Original,Brown3,Brown2
+291,BlackGray,Black,Brown3,Black Emoji3
+292,Green,DkGray,White,Original
+293,Blue,Red,DkGray,Original
+294,Yellow,Original,Brown1,Brown2
+295,Blue,DkGray,Brown1,Black Emoji3
+296,BlackGray,Red,Brown1,Black Emoji1
+297,Yellow,Original,Brown1,Black
+298,Green,Original,White,Brown3
+299,Yellow,Red,Brown2,Black
+300,Blue,Red,Brown1,Original
+301,Yellow,Red,Brown1,Black
+302,Blue,Black,Brown2,Original
+303,Blue,DkGray,Brown2,Brown3
+304,Yellow,Original,Original,Brown2
+305,BlackGray,Black,Original,Original
+306,Blue,White,Brown1,Black Emoji4
+307,Blue,Black,Brown2,Black
+308,Green,DkGray,Brown3,Original
+309,Blue,Original,Brown2,Brown1
+310,Blue,Red,Brown2,Black
+311,BlackGray,Red,DkGray,Brown1
+312,Green,White,DkGray,Brown1
+313,Yellow,DkGray,DkGray,Black
+314,BlackGray,Black,Brown3,Brown3
+315,Green,Red,Brown2,Brown3
+316,Blue,DkGray,Brown3,Black Emoji2
+317,Green,Black,Brown1,Brown1
+318,Yellow,Red,Brown2,Black Emoji3
+319,Green,Original,Brown2,Brown1
+320,Green,White,DkGray,Black Emoji4
+321,Green,Red,White,Original
+322,Green,Original,Brown1,Brown2
+323,Yellow,Original,Brown1,Brown3
+324,BlackGray,White,Brown1,Black Emoji2
+325,BlackGray,Red,Brown2,Black
+326,BlackGray,Black,Brown1,Brown2
+327,Yellow,Black,Brown2,Black Emoji2
+328,BlackGray,Black,DkGray,Black Emoji1
+329,Green,Red,Brown1,Brown2
+330,Green,Red,Brown1,Brown1
+331,BlackGray,Red,Original,Brown2
+332,Blue,DkGray,Original,Black
+333,Original,Red,DkGray,Black Emoji2
+334,Yellow,DkGray,Brown3,Brown3
+335,Green,Red,Brown3,Black
+336,BlackGray,DkGray,Brown1,Brown2
+337,Original,DkGray,Original,Brown3
+338,Original,White,DkGray,Black
+339,BlackGray,Original,White,Original
+340,BlackGray,Original,Brown2,Black
+341,BlackGray,DkGray,White,Black
+342,Original,White,Brown2,Brown3
+343,BlackGray,DkGray,DkGray,Original
+344,Original,Red,Brown3,Black
+345,BlackGray,Red,Brown2,Brown2
+346,BlackGray,White,Brown2,Black Emoji4
+347,Original,White,Original,Brown3
+348,Green,White,Brown2,Brown1
+349,Original,White,Original,Brown1
+350,Blue,Black,DkGray,Black Emoji4
+351,Original,DkGray,Brown2,Brown3
+352,Green,Original,Brown2,Black Emoji1
+353,Green,Original,Brown1,Black Emoji2
+354,Green,White,DkGray,Original
+355,Yellow,Red,Brown3,Brown1
+356,Yellow,Red,Brown3,Brown3
+357,Yellow,Original,Brown3,Brown2
+358,Green,DkGray,Original,Brown1
+359,Yellow,DkGray,Original,Brown2
+360,Green,DkGray,Original,Black Emoji2
+361,Yellow,Original,Brown2,Black Emoji4
+362,Green,Red,Original,Black Emoji4
+363,Green,Red,Brown2,Black
+364,Green,Black,Original,Brown3
+365,Blue,Red,Brown3,Brown3
+366,Green,DkGray,Brown1,Brown3
+367,Original,DkGray,Brown3,Brown3
+368,Original,Black,Brown3,Original
+369,Blue,DkGray,White,Original
+370,Green,Red,Brown3,Black Emoji4
+371,Blue,White,DkGray,Original
+372,Original,Black,Brown1,Black Emoji3
+373,BlackGray,White,Original,Black Emoji3
+374,Original,Black,Brown1,Black
+375,Yellow,DkGray,DkGray,Brown2
+376,Green,White,Original,Brown3
+377,Green,Original,Original,Brown3
+378,Green,Original,Original,Brown1
+379,Original,Red,White,Black
+380,BlackGray,Original,DkGray,Black
+381,Original,DkGray,White,Brown3
+382,Yellow,DkGray,Brown1,Black
+383,BlackGray,DkGray,Brown3,Black
+384,Blue,White,White,Brown2
+385,Green,Original,Brown1,Brown3
+386,Yellow,Red,Brown2,Brown2
+387,Yellow,Red,DkGray,Brown1
+388,Blue,Red,White,Black
+389,Blue,DkGray,Brown1,Brown1
+390,BlackGray,Red,Brown3,Brown2
+391,Yellow,White,Brown1,Black Emoji2
+392,Blue,Black,DkGray,Black
+393,BlackGray,Red,Brown3,Black Emoji1
+394,Yellow,DkGray,White,Original
+395,Blue,Original,White,Original
+396,Original,Original,DkGray,Brown2
+397,BlackGray,Original,DkGray,Original
+398,BlackGray,DkGray,Brown2,Brown2
+399,Blue,DkGray,Brown2,Black Emoji1
+400,Original,Original,Brown3,Black
+401,BlackGray,DkGray,Original,Black Emoji1
+402,BlackGray,Red,Brown1,Black
+403,BlackGray,DkGray,Original,Brown3
+404,Original,White,Brown3,Original
+405,BlackGray,Red,DkGray,Black Emoji1
+406,Blue,Red,Brown3,Black Emoji1
+407,Original,Red,Brown1,Original
+408,BlackGray,Original,Brown3,Brown3
+409,BlackGray,Red,Original,Black Emoji3
+410,Original,Red,Original,Brown3
+411,Original,Black,Original,Brown3
+412,BlackGray,Red,White,Brown1
+413,BlackGray,Red,DkGray,Black Emoji3
+414,Yellow,Black,Brown2,Black
+415,Green,DkGray,White,Black Emoji1
+416,BlackGray,Original,Brown1,Brown3
+417,Green,Black,Brown2,Black Emoji4
+418,Original,Black,DkGray,Original
+419,Yellow,DkGray,Brown3,Brown2
+420,Original,DkGray,White,Brown1
+421,Green,Original,DkGray,Brown3
+422,Green,DkGray,White,Brown3
+423,Yellow,Black,Brown3,Brown1
+424,Green,Black,Brown1,Original
+425,Green,DkGray,Brown2,Black Emoji2
+426,Green,White,Brown3,Original
+427,Yellow,White,Brown2,Brown1
+428,BlackGray,White,White,Black Emoji3
+429,BlackGray,DkGray,Brown2,Black
+430,BlackGray,Original,Brown3,Black
+431,BlackGray,DkGray,White,Brown1
+432,BlackGray,Red,Brown1,Brown2
+433,Original,White,Brown3,Brown2
+434,Original,Black,DkGray,Brown1
+435,Original,DkGray,DkGray,Brown1
+436,Yellow,Black,Original,Original
+437,BlackGray,DkGray,DkGray,Brown1
+438,Blue,Black,Original,Original
+439,Yellow,Red,Brown3,Black Emoji3
+440,Original,Black,White,Black
+441,Blue,DkGray,DkGray,Brown3
+442,Original,White,White,Black
+443,Green,Red,Brown1,Black Emoji1
+444,Yellow,White,Brown3,Black
+445,Blue,White,White,Brown3
+446,Yellow,White,White,Black
+447,Blue,Red,DkGray,Black Emoji4
+448,Green,Red,Brown3,Original
+449,Yellow,Black,Brown2,Black Emoji4
+450,Green,Black,Brown1,Brown3
+451,Yellow,DkGray,DkGray,Brown1
+452,Blue,DkGray,Original,Brown3
+453,Original,Black,Brown1,Black Emoji1
+454,BlackGray,Red,Brown1,Black Emoji3
+455,Green,White,Brown2,Black Emoji4
+456,BlackGray,Black,Original,Black Emoji4
+457,Original,Original,Brown3,Black Emoji2
+458,Original,Original,Brown2,Black Emoji1
+459,Original,White,Brown2,Original
+460,Original,Red,White,Brown2
+461,Yellow,Original,Brown3,Black Emoji1
+462,Original,Black,Brown2,Original
+463,Yellow,Original,Original,Black Emoji1
+464,Yellow,Black,White,Black Emoji2
+465,BlackGray,Original,Brown3,Black Emoji2
+466,Yellow,Red,Brown1,Black Emoji4
+467,Blue,White,Brown3,Brown2
+468,Yellow,Black,Brown1,Black
+469,Yellow,Black,Brown1,Brown2
+470,Blue,Original,DkGray,Brown3
+471,BlackGray,Red,Original,Brown3
+472,Green,DkGray,Original,Original
+473,Yellow,Red,White,Black Emoji1
+474,Yellow,White,Brown1,Brown3
+475,Blue,DkGray,Brown3,Original
+476,Blue,White,DkGray,Black Emoji3
+477,Blue,Original,Brown1,Black
+478,Yellow,Red,Brown2,Original
+479,Blue,Original,Brown3,Original
+480,Yellow,DkGray,Brown1,Brown2
+481,Blue,Original,DkGray,Brown2
+482,Green,Black,DkGray,Brown3
+483,Blue,DkGray,White,Black Emoji2
+484,Blue,Original,Original,Brown3
+485,BlackGray,Red,Brown1,Original
+486,Original,Red,DkGray,Black
+487,Yellow,Original,Brown3,Brown1
+488,BlackGray,Original,Brown1,Brown2
+489,BlackGray,White,Brown3,Brown3
+490,Green,Red,Brown3,Brown3
+491,Green,Red,Brown1,Original
+492,Green,DkGray,Brown2,Black
+493,BlackGray,Red,Brown3,Black Emoji4
+494,Green,Original,Brown2,Original
+495,BlackGray,White,Original,Brown2
+496,Green,Black,Brown1,Black Emoji2
+497,Yellow,Black,Brown2,Brown1
+498,Green,Red,DkGray,Brown2
+499,Yellow,Original,Brown1,Black Emoji2
+500,Original,White,Brown1,Original
+501,Blue,White,Brown1,Black
+502,Blue,Black,White,Black
+503,Yellow,Black,DkGray,Black Emoji1
+504,Blue,Black,Original,Black
+505,BlackGray,Red,Brown3,Original
+506,Blue,Black,Brown2,Brown1
+507,Original,Red,DkGray,Brown1
+508,BlackGray,Black,Brown3,Brown1
+509,BlackGray,Black,Brown2,Original
+510,Original,DkGray,Original,Brown1
+511,Yellow,Original,White,Black Emoji4
+512,Green,Red,Brown2,Brown2
+513,Original,Original,Original,Original
+514,Green,Original,Brown1,Brown1
+515,Green,Black,Brown3,Brown1
+516,Blue,Original,DkGray,Black Emoji4
+517,BlackGray,White,White,Black Emoji1
+518,Blue,Original,Brown2,Black
+519,Blue,Red,Brown2,Brown3
+520,Blue,DkGray,White,Brown1
+521,Original,Red,Brown3,Brown3
+522,Yellow,DkGray,White,Black
+523,Green,Black,Brown2,Black
+524,BlackGray,DkGray,Brown2,Original
+525,Yellow,White,Brown2,Black Emoji1
+526,BlackGray,Black,Brown2,Brown3
+527,BlackGray,Black,White,Brown2
+528,Original,Black,Original,Black Emoji2
+529,Original,Red,White,Brown1
+530,BlackGray,Black,DkGray,Original
+531,Yellow,Black,White,Brown3
+532,Green,Original,DkGray,Original
+533,BlackGray,DkGray,Brown1,Brown3
+534,BlackGray,White,Brown2,Brown2
+535,Original,White,Brown1,Brown2
+536,Green,Original,Brown2,Brown2
+537,Blue,Original,Brown3,Brown1
+538,BlackGray,Black,White,Brown3
+539,Green,Black,Brown2,Brown3
+540,Blue,Original,Brown3,Brown2
+541,Yellow,Black,White,Black
+542,Yellow,White,Brown2,Black
+543,BlackGray,Black,White,Black
+544,Original,White,Original,Black Emoji2
+545,BlackGray,Black,Brown2,Black Emoji3
+546,Yellow,DkGray,Brown2,Original
+547,Original,Black,Original,Black
+548,Green,Red,DkGray,Brown3
+549,Blue,Black,Brown1,Black
+550,BlackGray,Red,Original,Black Emoji4
+551,Original,Red,White,Brown3
+552,BlackGray,Red,Brown1,Black Emoji2
+553,Original,Original,White,Brown2
+554,BlackGray,Red,Original,Black
+555,Yellow,White,Brown3,Brown3
+556,BlackGray,Red,Brown2,Brown3
+557,Yellow,Red,White,Black
+558,Green,Red,White,Black Emoji1
+559,Green,DkGray,Original,Black Emoji4
+560,Blue,DkGray,Brown3,Black Emoji3
+561,BlackGray,Red,Original,Original
+562,Blue,DkGray,White,Brown2
+563,Blue,Red,DkGray,Brown3
+564,Yellow,White,DkGray,Brown2
+565,BlackGray,DkGray,Brown2,Brown1
+566,Blue,White,White,Black Emoji4
+567,BlackGray,Original,DkGray,Brown3
+568,Original,Red,Brown2,Black
+569,Green,DkGray,Brown2,Brown2
+570,Yellow,Black,Brown1,Black Emoji1
+571,Blue,DkGray,Original,Brown2
+572,Blue,Black,Original,Brown1
+573,Green,Red,Original,Brown3
+574,BlackGray,DkGray,White,Brown3
+575,Yellow,DkGray,DkGray,Brown3
+576,Original,Black,Brown2,Black Emoji1
+577,Green,Black,Brown1,Black
+578,Blue,Original,Brown3,Black Emoji1
+579,Yellow,Red,White,Black Emoji3
+580,Yellow,DkGray,Brown1,Black Emoji4
+581,BlackGray,Black,Original,Black Emoji1
+582,Blue,DkGray,Brown1,Brown2
+583,Yellow,Original,Brown3,Original
+584,Original,Red,Brown3,Brown2
+585,Green,Red,Brown3,Brown2
+586,Green,Black,Original,Original
+587,Green,Red,Brown2,Black Emoji1
+588,Blue,White,Original,Original
+589,Green,Black,White,Black
+590,Original,DkGray,Brown3,Black Emoji4
+591,BlackGray,White,DkGray,Brown2
+592,Yellow,Original,Brown1,Original
+593,Yellow,Red,Brown2,Brown3
+594,BlackGray,Red,Brown1,Brown1
+595,Green,Original,Original,Black Emoji1
+596,Green,Black,Original,Brown2
+597,Blue,Original,Brown2,Brown3
+598,BlackGray,Original,Original,Original
+599,BlackGray,Red,Original,Black Emoji1
+600,Green,Black,Original,Black Emoji2
+601,Green,Red,Original,Brown1
+602,Yellow,Red,DkGray,Brown3
+603,Blue,DkGray,Original,Black Emoji4
+604,Green,Original,DkGray,Black Emoji2
+605,BlackGray,Black,White,Black Emoji1
+606,Blue,White,Brown3,Original
+607,Blue,Original,Original,Black
+608,Blue,DkGray,DkGray,Original
+609,Green,Red,Brown2,Black Emoji4
+610,Yellow,Original,Brown3,Black
+611,Green,Black,White,Black Emoji4
+612,BlackGray,Red,White,Black
+613,Blue,DkGray,Brown1,Black
+614,Green,Original,Brown3,Black Emoji1
+615,Yellow,Black,Original,Black Emoji1
+616,Original,Original,Original,Brown1
+617,Original,Original,Brown2,Black
+618,Blue,Black,Brown2,Black Emoji1
+619,Green,DkGray,DkGray,Brown1
+620,Blue,Red,DkGray,Black Emoji1
+621,Blue,White,Brown3,Brown1
+622,BlackGray,DkGray,Brown3,Brown1
+623,BlackGray,White,Brown1,Brown3
+624,Yellow,Black,DkGray,Original
+625,Original,White,Brown1,Black
+626,BlackGray,White,White,Black
+627,Blue,Original,White,Brown2
+628,Green,DkGray,Brown1,Black
+629,Original,DkGray,Brown1,Black Emoji4
+630,Yellow,Red,Original,Black Emoji2
+631,Yellow,Black,Brown2,Brown2
+632,Blue,Original,Brown1,Black Emoji4
+633,Blue,White,Brown1,Brown3
+634,Green,Original,Brown2,Brown3
+635,Yellow,Black,Brown1,Brown3
+636,Yellow,Original,Original,Black
+637,BlackGray,White,Brown2,Original
+638,Blue,White,Original,Brown2
+639,BlackGray,Original,Brown2,Brown2
+640,Yellow,White,Brown3,Original
+641,Green,Original,Brown2,Black
+642,Original,White,Brown1,Brown3
+643,BlackGray,Red,DkGray,Black Emoji2
+644,Yellow,Original,Original,Original
+645,Blue,Black,Brown2,Brown2
+646,BlackGray,White,Original,Black Emoji2
+647,Yellow,Black,Brown1,Brown1
+648,BlackGray,White,Brown3,Brown1
+649,Blue,Black,Brown1,Brown1
+650,Original,Red,White,Black Emoji3
+651,Blue,Red,Brown1,Brown3
+652,Blue,Red,White,Brown2
+653,Blue,Black,Brown2,Brown3
+654,Yellow,White,DkGray,Black
+655,Yellow,DkGray,Brown3,Black Emoji3
+656,Original,Black,Brown1,Brown2
+657,Green,DkGray,Brown3,Brown2
+658,Blue,White,Brown2,Brown3
+659,Blue,Original,Brown1,Original
+660,Yellow,DkGray,White,Brown3
+661,Yellow,Black,White,Original
+662,Original,Black,White,Brown3
+663,BlackGray,DkGray,DkGray,Brown2
+664,Original,Original,DkGray,Black
+665,BlackGray,Original,DkGray,Black Emoji3
+666,Green,Original,Original,Black
+667,BlackGray,DkGray,Brown3,Black Emoji1
+668,Blue,Original,Brown3,Black Emoji3
+669,Original,Black,Brown1,Original
+670,BlackGray,Original,Brown2,Brown1
+671,Green,White,Original,Black
+672,Yellow,Original,Brown3,Brown3
+673,Yellow,White,White,Brown3
+674,Original,Original,Brown1,Black Emoji1
+675,Original,Red,DkGray,Black Emoji1
+676,Original,Original,DkGray,Original
+677,Yellow,Original,Brown1,Black Emoji4
+678,Blue,White,Brown3,Black Emoji1
+679,Original,Original,Brown1,Brown3
+680,Original,Original,Brown3,Black Emoji3
+681,Original,DkGray,White,Black Emoji2
+682,Green,Red,Original,Brown2
+683,Original,DkGray,White,Brown2
+684,Blue,DkGray,Brown3,Black Emoji4
+685,Original,White,DkGray,Brown1
+686,Green,Black,Brown3,Brown3
+687,Blue,Black,Brown2,Black Emoji3
+688,Original,Red,DkGray,Original
+689,Original,Red,Brown2,Brown1
+690,Original,DkGray,Brown2,Brown1
+691,BlackGray,Black,Brown2,Black Emoji4
+692,Yellow,DkGray,Original,Original
+693,Yellow,Red,White,Original
+694,BlackGray,Red,Brown3,Black Emoji2
+695,Blue,Red,Brown1,Black Emoji3
+696,Original,Original,Brown3,Original
+697,Yellow,Red,Original,Black
+698,Green,White,Brown3,Black Emoji2
+699,BlackGray,Black,Brown2,Brown2
+700,Original,DkGray,Brown2,Brown2
+701,Green,Black,Brown3,Black Emoji4
+702,Yellow,DkGray,Brown2,Black Emoji3
+703,Green,DkGray,Brown2,Original
+704,Green,White,Brown1,Brown2
+705,Original,DkGray,Original,Black Emoji1
+706,Original,Original,Brown2,Black Emoji2
+707,BlackGray,DkGray,Brown1,Black Emoji1
+708,Original,DkGray,Brown1,Black Emoji3
+709,BlackGray,Black,Brown2,Black Emoji1
+710,Green,Original,Brown1,Black Emoji3
+711,Blue,DkGray,Original,Brown1
+712,Blue,White,DkGray,Black Emoji1
+713,Blue,White,Original,Black Emoji1
+714,Blue,Original,White,Brown3
+715,Original,Black,Brown3,Brown2
+716,Blue,White,White,Black Emoji2
+717,Original,White,White,Brown3
+718,Green,Original,Original,Original
+719,Green,DkGray,Brown3,Black Emoji2
+720,Blue,Black,Original,Black Emoji1
+721,Original,Original,Brown1,Black Emoji3
+722,Blue,DkGray,Original,Black Emoji2
+723,Yellow,DkGray,Original,Black Emoji2
+724,Green,Black,Brown3,Brown2
+725,Yellow,Red,Original,Black Emoji3
+726,Green,Black,White,Brown3
+727,BlackGray,DkGray,DkGray,Black Emoji3
+728,Yellow,Original,White,Brown1
+729,Original,Black,Brown1,Black Emoji4
+730,Original,DkGray,Brown1,Black Emoji2
+731,Yellow,Original,Original,Black Emoji3
+732,BlackGray,Black,Brown3,Brown2
+733,Original,Black,Original,Black Emoji4
+734,Green,Red,Original,Black Emoji3
+735,BlackGray,Original,White,Black
+736,Yellow,DkGray,Brown1,Black Emoji1
+737,Blue,Red,Brown2,Black Emoji3
+738,Yellow,White,Original,Brown1
+739,Green,Black,Brown3,Black Emoji3
+740,Blue,White,Brown2,Brown2
+741,Blue,Red,Brown2,Black Emoji4
+742,BlackGray,Original,Original,Brown2
+743,BlackGray,DkGray,Brown3,Black Emoji2
+744,Yellow,Red,Brown3,Original
+745,Green,Red,Brown1,Black
+746,Yellow,Black,Original,Brown2
+747,Blue,Original,White,Brown1
+748,Green,Red,Brown2,Brown1
+749,Original,Black,White,Black Emoji4
+750,Green,Original,Brown3,Brown1
+751,Yellow,Red,Brown3,Black Emoji4
+752,Green,Black,Original,Brown1
+753,BlackGray,DkGray,DkGray,Black Emoji2
+754,Original,Black,DkGray,Black Emoji2
+755,Blue,Red,Brown3,Brown1
+756,Yellow,White,Brown2,Brown2
+757,Green,Red,Original,Black Emoji2
+758,Blue,Red,Brown1,Brown2
+759,BlackGray,Black,Original,Black Emoji2
+760,Original,Black,Original,Brown2
