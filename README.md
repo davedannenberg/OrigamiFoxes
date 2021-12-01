@@ -1,6 +1,6 @@
 # OrigamiFoxes
 ## Purpose of the project
-Origami foxes consists of 820 non-fungible tokens (NFTs) based on an Origami Fox design. Origami foxes is produced using a generative NFT program and adheres to ERC-721 standards. We have also developed a decentralized app to facilitate the purchase of these NFTs, which runs on streamlit and IPFS. 
+Origami foxes consists of 760 non-fungible tokens (NFTs) based on an Origami Fox design. Origami foxes is produced using a generative NFT program and adheres to ERC-721 standards. We have also developed a decentralized app to facilitate the purchase of these NFTs, which runs on streamlit and IPFS. 
 
 NFTs have seen increasing popularity over the past year, with early popular generative NFTs including Cryptopunks and the Bored Ape Yacht Club. In many instances, early generative NFTs sell for tens if not hundreds of thousands of dollars making them inaccessible to the vast majority of crypto users. Origami Foxes uses a similar generative concept creating uniquely patterned foxes that will be available for every individual in our class to mint and use across their digital footprint.
 
@@ -82,8 +82,27 @@ Next, open the Terminal and run the metadata.py file and enter the edition you a
 Upload your JOSN metadata folder to IPFS using Pinata, similar to how you uploaded the images.
 
 ### Create smartcontract
+We created an ERC721 compliante contract and imported the following libraries from OpenZeppelin:
+
+- ERC721 to import the basic NFT functions
+- IERC721Metadata to provide NFT metadata
+- SafeMath for robust math functions
+- Ownable for basic authorization control functions
+- Counters to count called tokenIds (NFTs)
+
+We capped the supply of NFTs to 760 and allowed for 1 NFT per mint.
+
+We created the following functions in the smart contract:
+
+- *reserveNFT* function to mint NFTs for free
+- *setBaseURI* function to specify JSON file in IPFS
+- *mintNFTs* function to perform pre-mint checks
+- *mintSingleNFT* function to mint NFT to msg.sender
 
 ### Deploy smartcontract
+
+We deployed the smart contract on Ethereum's Testnet Rinkeby and can be found in the following address: 
+https://rinkeby.etherscan.io/address/0x42c877DA4FBb752B1c9cBcB00e4163d57AC40965
 
 ## Contributors
 Aquiba Benarroch, Dariush Ruch-Kamgar, David Dannenberg and Tim Moriarty. This project is largely based on the Scrappy Squirrels tutorial, which can be found on Medium. 
